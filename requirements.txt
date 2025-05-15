@@ -1,0 +1,2 @@
+aiogram==3.17.0      # Для работы с Telegram Bot API
+python-dotenv==1.0.0   # Для работы с .env файлами
